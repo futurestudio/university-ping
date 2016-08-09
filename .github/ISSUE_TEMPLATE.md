@@ -1,4 +1,4 @@
-Please take a moment to [search within the Future Studio blog](futurestud.io/search) if your topic is already covered.
+Please take a moment to [search within the Future Studio blog](https://futurestud.io/search) if your topic is already covered.
 
 ## Topic
   - [ ] Android: *your specific topic here*
