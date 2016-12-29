@@ -6,10 +6,10 @@ Do you want us to write a specific tutorial? Let us know in the issues :) Just p
 Please consider tutorial proposals for one of the following topics:
 
 - Android: in general and any library that has a stable state without changing their API every week :)
-- hapi
-- PM2
+- [hapi](https://hapijs.com/)
+- [PM2](http://pm2.keymetrics.io/)
 - Node.js
-- RethinkDB
+- [RethinkDB](https://rethinkdb.com/)
 - Web performance
 
 Thank you so much!
